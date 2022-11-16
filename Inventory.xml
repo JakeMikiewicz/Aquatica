@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x2="urn:schemas-microsoft-com:office:excel2" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+ <x:ExcelWorkbook>
+  <x:ActiveSheet>0</x:ActiveSheet>
+ </x:ExcelWorkbook>
+ <o:DocumentProperties>
+  <o:Author>Jake Mikiewicz</o:Author>
+  <o:Created>2022-11-16T00:50:18Z</o:Created>
+  <o:LastSaved>2022-11-16T01:46:13Z</o:LastSaved>
+ </o:DocumentProperties>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Calibri" ss:Size="11" />
+  </Style>
+  <Style ss:ID="S21">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Calibri" ss:Size="11" />
+   <ss:NumberFormat ss:Format="M/d/yyyy" />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="15" ss:DefaultColumnWidth="48" ss:ExpandedRowCount="6" ss:ExpandedColumnCount="4">
+   <Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="93" />
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="60.75" />
+   <Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="56.25" />
+   <Row ss:Index="1">
+    <Cell><Data ss:Type="String">ProductID</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Quantity Available</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">New Orders</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Order Date</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="2">
+    <Cell><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">4983</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">1000</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2022-10-05T00:00:00.000</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="3">
+    <Cell><Data ss:Type="Number">2</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">3482</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">2000</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2021-11-23T00:00:00.000</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="4">
+    <Cell><Data ss:Type="Number">3</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">2831</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">500</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2022-03-04T00:00:00.000</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="5">
+    <Cell><Data ss:Type="Number">4</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">1104</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">200</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2022-07-04T00:00:00.000</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="6">
+    <Cell><Data ss:Type="Number">5</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">2030</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">400</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="DateTime">2022-04-30T00:00:00.000</Data>
+    </Cell>
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3" />
+    <Footer x:Margin="0.3" />
+    <PageMargins x:Top="0.75" x:Bottom="0.75" x:Left="0.7" x:Right="0.7" />
+   </PageSetup>
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>5</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+     <RangeSelection>R6C4</RangeSelection>
+    </Pane>
+   </Panes>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
